@@ -1,4 +1,4 @@
-if valasztas=masodik
+if valasztas=masod
     import math
     a=float(input("Írd be az a-t"))
     b=float(input("Írd be az b-t"))
